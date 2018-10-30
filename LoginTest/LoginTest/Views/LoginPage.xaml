@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:LoginTest.CustomControls"
+             x:Class="LoginTest.Views.LoginPage" NavigationPage.HasNavigationBar="False" >
+    <ContentPage.Content>
+        <Grid HorizontalOptions="FillAndExpand"  VerticalOptions="FillAndExpand">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="4*"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            <Image  Source="{StaticResource BackGroundWorldImage}" Grid.Row="0" Grid.Column="0" Aspect="Fill" HeightRequest="178" WidthRequest="348"/>
+
+            <Label Text="LOGIN" Margin="0,-45,0,0" Grid.Row="0" Grid.Column="0" FontSize="22" TextColor="{StaticResource HeadingColor}" FontAttributes="Bold" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+            <Grid Grid.Column="0" Padding="30,0,30,0" Grid.Row="0" Margin="0,5,0,0" Grid.RowSpan="2" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" RowSpacing="20" >
+              <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Image Opacity="0.8" Grid.Row="0" Grid.Column="0"  Source="{StaticResource EntryBgImage}"   Aspect="AspectFill" HeightRequest="44" />
+                <StackLayout Orientation="Horizontal" Grid.Row="0" Grid.Column="0" >
+                <Image Source="{StaticResource UserImage}" Margin="10,0,10,0" HeightRequest="24" WidthRequest="24"/>
+                <local:ExtendedEntry Placeholder="Email Id" HorizontalTextAlignment="Center" PlaceholderColor="{StaticResource PrimaryColor}" TextColor="{StaticResource PrimaryColor}" FontSize="16" BackgroundColor="Transparent" HeightRequest="44" WidthRequest="290"/>
+
+                </StackLayout>
+                <Image Opacity="0.8" Grid.Row="1" Grid.Column="0"  Source="{StaticResource EntryBgImage}"   Aspect="AspectFill" HeightRequest="44" WidthRequest="290"/>
+                <StackLayout Orientation="Horizontal" Grid.Row="1" Grid.Column="0" >
+                <Image Source="{StaticResource PasswordImage}" Margin="10,0,10,0" HeightRequest="24" WidthRequest="24"/>
+                <local:ExtendedEntry Placeholder="Password" HorizontalTextAlignment="Center" PlaceholderColor="{StaticResource PrimaryColor}" TextColor="{StaticResource PrimaryColor}" FontSize="16"  BackgroundColor="Transparent" HeightRequest="44" WidthRequest="290"/>
+                </StackLayout>
+                <Image Grid.Row="1" Grid.Column="0" HorizontalOptions="StartAndExpand" Source="{StaticResource PasswordImage}" Margin="10,0,10,0" HeightRequest="24" WidthRequest="24"/>
+                <Image x:Name="btnImage" Opacity="0.8" Grid.Row="2" Margin="30,0,30,0" Source="{StaticResource BtnSubmitImage}" Aspect="AspectFill" HeightRequest="38" WidthRequest="248"/>
+                <Button x:Name="btnLogin" Clicked="Handle_Clicked" Grid.Row="2" Grid.Column="0" Text="Login" FontSize="14" Command="{Binding SubmitCommand}" TextColor="{StaticResource PrimaryColor}" BackgroundColor="Transparent">
+            <!--    <VisualStateManager.VisualStateGroups>
+                <VisualStateGroup Name="ValidityStates">
+                    
+                    <VisualState Name="Pressed" >
+                    <VisualState.Setters>
+                            <Setter Property="Source" Value="submit_button_active.png" />
+                        </VisualState.Setters>
+                            </VisualState>
+
+                    <VisualState Name="Normal">
+                    <VisualState.Setters>
+                          <Setter Property="Source" Value="submit_button_active.png" />
+                        </VisualState.Setters>
+                            </VisualState>
+                    
+                </VisualStateGroup>
+                 </VisualStateManager.VisualStateGroups>-->
+                </Button>
+            </Grid> 
+            
+            <StackLayout Grid.Column="0" Grid.Row="2" Spacing="0" Padding="0">
+                <BoxView HeightRequest="6" BackgroundColor="{StaticResource OrangeLineColor}" VerticalOptions="EndAndExpand" HorizontalOptions="FillAndExpand"/>
+                <BoxView HeightRequest="6" BackgroundColor="{StaticResource BlueLineColor}" HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

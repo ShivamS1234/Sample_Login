@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginTest.App">
+    <Application.Resources>
+        <x:String x:Key="BackGroundWorldImage">world_map.png</x:String>
+        <x:String x:Key="EntryBgImage">entry_bg.png</x:String>
+        <x:String x:Key="BtnActiveImage">submit_button_active.png</x:String>
+        <x:String x:Key="BtnSubmitImage">submitButton.png</x:String>
+        <x:String x:Key="UserImage">ic_user.png</x:String>
+         <x:String x:Key="PasswordImage">ic_password.png</x:String>
+        <Color x:Key="HeadingColor">#222222</Color>
+        <Color x:Key="PrimaryColor">#ffffff</Color>
+        <Color x:Key="OrangeLineColor">#f58326</Color>
+        <Color x:Key="BlueLineColor">#00adef</Color>
+    </Application.Resources>
+</Application>

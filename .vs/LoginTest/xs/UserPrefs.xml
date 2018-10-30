@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5067DEE1-1EC3-4935-A8E0-91C00A5D5112}|Default">
+  <MonoDevelop.Ide.ItemProperties.LoginTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.54518D45-4007-4E37-B916-00452305096D" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoginTest/LoginTest.Android/Resources/values/styles.xml">
+    <Files>
+      <File FileName="LoginTest/LoginTest/Views/LoginPage.xaml" Line="65" Column="15" />
+      <File FileName="LoginTest/LoginTest/Views/LoginPage.xaml.cs" Line="44" Column="14" />
+      <File FileName="LoginTest/LoginTest/App.xaml" Line="17" Column="15" />
+      <File FileName="LoginTest/LoginTest/CustomControls/ExtendedEntry.cs" Line="4" Column="12" />
+      <File FileName="LoginTest/LoginTest.iOS/Renderer/ExtendedEntryRenderer.cs" Line="6" Column="17" />
+      <File FileName="LoginTest/LoginTest.Android/Renderer/ExtendedEntryRenderer.cs" Line="13" Column="32" />
+      <File FileName="LoginTest/LoginTest/ViewModels/LoginPageViewModel.cs" Line="9" Column="5" />
+      <File FileName="LoginTest/LoginTest.iOS/AppDelegate.cs" Line="13" Column="30" />
+      <File FileName="LoginTest/LoginTest.Android/Resources/values/styles.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/virtualemployee/Downloads/LoginTest 2/LoginTest/LoginTest/Views/LoginPage.xaml.cs" relfile="LoginTest/LoginTest/Views/LoginPage.xaml.cs" line="27" column="1" />
+      <Breakpoint file="/Users/virtualemployee/Downloads/LoginTest 2/LoginTest/LoginTest/Views/LoginPage.xaml.cs" relfile="LoginTest/LoginTest/Views/LoginPage.xaml.cs" line="37" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.LoginTest.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,28 @@
+C:/Users/Hari/source/repos/LoginTest/LoginTest/LoginTest/bin/Debug/netstandard2.0/LoginTest.deps.json
+C:/Users/Hari/source/repos/LoginTest/LoginTest/LoginTest/bin/Debug/netstandard2.0/LoginTest.dll
+C:/Users/Hari/source/repos/LoginTest/LoginTest/LoginTest/bin/Debug/netstandard2.0/LoginTest.pdb
+C:/Users/Hari/source/repos/LoginTest/LoginTest/LoginTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/Hari/source/repos/LoginTest/LoginTest/LoginTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/Hari/source/repos/LoginTest/LoginTest/LoginTest/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+C:/Users/Hari/source/repos/LoginTest/LoginTest/LoginTest/obj/Debug/netstandard2.0/LoginTest.csproj.CoreCompileInputs.cache
+C:/Users/Hari/source/repos/LoginTest/LoginTest/LoginTest/obj/Debug/netstandard2.0/LoginTest.AssemblyInfoInputs.cache
+C:/Users/Hari/source/repos/LoginTest/LoginTest/LoginTest/obj/Debug/netstandard2.0/LoginTest.AssemblyInfo.cs
+C:/Users/Hari/source/repos/LoginTest/LoginTest/LoginTest/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/Hari/source/repos/LoginTest/LoginTest/LoginTest/obj/Debug/netstandard2.0/LoginTest.dll
+C:/Users/Hari/source/repos/LoginTest/LoginTest/LoginTest/obj/Debug/netstandard2.0/LoginTest.pdb
+C:/Users/Hari/source/repos/LoginTest/LoginTest/LoginTest/obj/Debug/netstandard2.0/LoginTest.csprojAssemblyReference.cache
+C:/Users/Hari/source/repos/LoginTest/LoginTest/LoginTest/obj/Debug/netstandard2.0/Views/WelcomePage.xaml.g.cs
+/Users/vinaytiwari/Downloads/LoginTest 2/LoginTest/LoginTest/bin/Debug/netstandard2.0/LoginTest.deps.json
+/Users/vinaytiwari/Downloads/LoginTest 2/LoginTest/LoginTest/bin/Debug/netstandard2.0/LoginTest.dll
+/Users/vinaytiwari/Downloads/LoginTest 2/LoginTest/LoginTest/bin/Debug/netstandard2.0/LoginTest.pdb
+/Users/vinaytiwari/Downloads/LoginTest 2/LoginTest/LoginTest/obj/Debug/netstandard2.0/LoginTest.csprojResolveAssemblyReference.cache
+/Users/vinaytiwari/Downloads/LoginTest 2/LoginTest/LoginTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/vinaytiwari/Downloads/LoginTest 2/LoginTest/LoginTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/vinaytiwari/Downloads/LoginTest 2/LoginTest/LoginTest/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+/Users/vinaytiwari/Downloads/LoginTest 2/LoginTest/LoginTest/obj/Debug/netstandard2.0/Views/WelcomePage.xaml.g.cs
+/Users/vinaytiwari/Downloads/LoginTest 2/LoginTest/LoginTest/obj/Debug/netstandard2.0/LoginTest.csproj.CoreCompileInputs.cache
+/Users/vinaytiwari/Downloads/LoginTest 2/LoginTest/LoginTest/obj/Debug/netstandard2.0/LoginTest.AssemblyInfoInputs.cache
+/Users/vinaytiwari/Downloads/LoginTest 2/LoginTest/LoginTest/obj/Debug/netstandard2.0/LoginTest.AssemblyInfo.cs
+/Users/vinaytiwari/Downloads/LoginTest 2/LoginTest/LoginTest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/vinaytiwari/Downloads/LoginTest 2/LoginTest/LoginTest/obj/Debug/netstandard2.0/LoginTest.dll
+/Users/vinaytiwari/Downloads/LoginTest 2/LoginTest/LoginTest/obj/Debug/netstandard2.0/LoginTest.pdb
